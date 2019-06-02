@@ -11,3 +11,4 @@
    :caption: 通用功能:
 
    login-and-logout
+   query
