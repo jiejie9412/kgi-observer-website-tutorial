@@ -9,3 +9,5 @@
 .. toctree::
    :maxdepth: 2
    :caption: 通用功能:
+
+   login-and-logout
